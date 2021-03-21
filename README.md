@@ -1,2 +1,2 @@
 # practice_java
-practice java concept code
+practice java concepts code
