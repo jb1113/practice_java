@@ -13,10 +13,12 @@ public class HouseDog extends Dog {
 		}
 	}
 
+	// Method Overriding
 	public void sleep() {
 		System.out.println(this.name + " zzZ in house");
 	}
 
+	// Method Overloading
 	public void sleep(int hour) {
 		System.out.println(this.name + " zzZ in house for " + hour + " hours");
 	}
